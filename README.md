@@ -2,7 +2,7 @@ Currently In Development
 
 ### About
 
-This project aims to allow for creating RL trading agents.
+This project aims to allow for creating RL trading agents on OpenBB sourced datasets.
 
 It aims to create a more Gymnasium Native approach to Tensortrade's modular design.
 

@@ -1,0 +1,5 @@
+gymnasium==0.28.0
+matplotlib==3.7.0
+numpy==1.23.4
+pandas==1.5.3
+setuptools==64.0.2
